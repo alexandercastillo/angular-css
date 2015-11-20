@@ -533,7 +533,7 @@
       };
 
       // Preload all stylesheets
-      $css.preload();
+      //$css.preload();
 
       return $css;
 
